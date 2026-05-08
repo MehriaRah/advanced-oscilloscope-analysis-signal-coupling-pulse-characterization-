@@ -26,17 +26,6 @@ By utilizing a differential probe setup, we mapped the exponential current growt
 * **Forward Voltage ($U_F$):** Observed starting at approximately 0.6V.
 * **Calculated Current:** 1.025 mA @ 600mV | 480.01 mA @ 800mV.
 
-## 📁 Project Structure
-```text
-├── Report/
-│   └── Lab_Report_Advanced_Scope.pdf   # Full technical report
-├── Calculations/
-│   └── diode_calculations.jpg          # Handwritten theoretical derivation
-├── Measurements/
-│   ├── bode_plot.jpg                   # Frequency response graph
-│   ├── pulse_waveform.jpg              # Oscilloscope pulse capture
-│   └── diode_xy_curve.jpg              # X-Y mode characteristic curve
-└── README.md
 
 <img width="1600" height="1200" alt="WhatsApp Image 2026-05-08 at 12 24 18" src="https://github.com/user-attachments/assets/a3a5785b-364e-4e27-af4e-88ed841fa7a0" />
 <img width="1600" height="1200" alt="WhatsApp Image 2026-05-08 at 12 24 23 (2)" src="https://github.com/user-attachments/assets/d74baed5-0536-4ad2-b953-525824c36a99" />
